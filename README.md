@@ -16,3 +16,24 @@ A modern portfolio website built with React, showcasing our professional work an
 - CSS/SCSS
 - JavaScript
 - [Add any other technologies you're using]
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (version 14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+
+### Running the Project
+
+To start the development server:
+
+```bash
+npm start
+```
